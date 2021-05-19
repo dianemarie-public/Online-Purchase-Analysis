@@ -1,5 +1,4 @@
-# Pandas Homework - Pandas, Pandas, Pandas
-## Heroes of Pymoli
+## Heroes of Pymoli using Pandas
 ## Three Observable Trends from the above Analysis
 1. Male players made 652 purchases, the most of any gender
 ![Purchases by Gender](Images/purchases_by_gender.png)
