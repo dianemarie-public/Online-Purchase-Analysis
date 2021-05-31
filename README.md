@@ -1,6 +1,6 @@
 ### Pandas Library and Jupyter Notebook
 
-### Three Observable Trends from the above Analysis
+Online Purchasers Analysis
 
 1. Male players made 652 purchases, the most of any gender
 
