@@ -1,6 +1,6 @@
 ### Pandas Library and Jupyter Notebook
 
-Online Purchasers Analysis
+Online Purchases Analysis
 
 1. Male players made 652 purchases, the most of any gender
 
