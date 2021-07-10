@@ -1,15 +1,15 @@
-### Pandas Library and Jupyter Notebook
+### [Online Purchases Analysis](https://github.com/dianewitt/pandas) *from .csv data using Python and Pandas*
+   * Sample Pandas code
+      ```purchase_count = gender_group["Purchase ID"].count()
+      purchase_count
+      
+      avg_price = gender_group["Price"].mean()
+      avg_price
 
-Online Purchases Analysis
+      total_revenue = gender_group["Price"].sum()
+      total_revenue
 
-1. Male players made 652 purchases, the most of any gender
-
-![Purchases by Gender](Images/purchases_by_gender.png)
-
-2. Players between the ages of 20 and 24 made 365 purchases, the most of any other age group in the dataset
-
-![Purchases by Age](Images/purchases_by_age.png)
-
-3. The "Final Critic" had 13 purchases, the most among all games, and also has the highest total purchase value of $59.99
-
-![Purchases by Game](Images/most_purchased_game.png)
+      avg_player_purchase = total_revenue/gender_count
+      avg_player_purchase
+      ```
+      ![pandas](/Images/pandas.jpg)
