@@ -41,6 +41,6 @@ Analyzing (fictional) online game purchase data.
 
    ![Top 5 Games Purchased](Images/most_popular.png)
 
-**Conclusion**
+<!-- **Conclusion**
 
-Futher action, data exploration and limitations.
+Futher action, data exploration and limitations. -->
