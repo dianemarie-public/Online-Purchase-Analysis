@@ -15,7 +15,7 @@ Analyzing (fictional) online game purchase data.
 - Analyzing purchase data using player metadata to identify trends.
 
 **Analysis**
-- Purchase count, average price and total sales amount. 
+- Purchase count, average price and total revenue. 
 
    ![pandas](Images/purchases.png)
 - Purchase count, average price and total revenue by Gender. 
