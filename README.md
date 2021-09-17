@@ -15,27 +15,32 @@ Analyzing (fictional) online game purchase data.
 - Analyzing purchase data using player metadata to identify trends.
 
 **Analysis**
-- Total player count.
-   
-   ![count](Images/player_count.png)
 - Purchase count, average price and total sales amount. 
 
-   ![pandas](Images/purchasing_analysis.png)
-- Breakdown of purchases by gender. 
+   ![pandas](Images/purchases.png)
+- Purchase count, average price and total revenue by Gender. 
    
-   ![pandas](Images/gender_analysis.png)
-- Age group 20-24 has the most purchases by both purchase count and amount. 
+   ![pandas](Images/gender.png)
+- Purchase count, average price and total revenue by age group. 
    
-   ![pandas](Images/age_analysis.png)
+   ![pandas](Images/age.png)
+- Total purchase count by player.
+   
+   ![count](Images/player_count.png)
+- Total revenue by player.
+
+   ![count](Images/player_revenue.png)
 
 **Summary and Insights**
-- *570 total players.*
- 
-- *780 total purchases, across 179 games, averaging $3.05 and $2,380 in total sales.*
+- *780 total purchases, with 570 players, across 179 games, with $2,380 total revenue and an average purchase of $3.05.*
  
 - *Males have the most purchases and total sales amount, but the lowest average purchase at $3.02.*
 
-- *Age group 20-24 has the most purchases by both purchase count and amount while age group 35-39 has highest average purchase of $4.76.*
+- *Age group 20-24 has the most purchases by both purchase count and revenue while age group 35-39 has highest average purchase of $3.60.*
+
+- The player with the most purchases is Lisosia93 with 5.
+![Top 5 Games Purchased](Images/player_count.png)
+
 
 - *The most purchased game is Final Critic:*
 
