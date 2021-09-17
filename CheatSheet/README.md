@@ -1,6 +1,6 @@
-# Pandas
+# Pandas Cheat Sheet
 
-**Background**
+<!-- **Background**
 
 Analyzing (fictional) online game purchase data.
 
@@ -49,4 +49,4 @@ Analyzing (fictional) online game purchase data.
 
 <!-- **Conclusion**
 
-Futher action, data exploration and limitations. -->
+Futher action, data exploration and limitations. --> -->
