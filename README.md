@@ -38,9 +38,10 @@ Analyzing (fictional) online game purchase data.
 
 - *Age group 20-24 has the most purchases by both purchase count and revenue while age group 35-39 has highest average purchase of $3.60.*
 
-- The player with the most purchases is Lisosia93 with 5.
-![Top 5 Games Purchased](Images/player_count.png)
+- The player with the most purchases, and the most purchase revenue is Lisosia93 with 5.
 
+   ![Top 5 Games Purchased](Images/player_count.png)
+   ![Top 5 Games Purchased](Images/player_revenue.png)
 
 - *The most purchased game is Final Critic:*
 
